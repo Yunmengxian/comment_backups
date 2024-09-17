@@ -1,9 +1,9 @@
 央视频道,#genre#
-CCTV-1_综合,http://video.qd.sdu.edu.cn/liverespath/b455c7a019d404d571655c457e0ee8a9440a7802/index.m3u8
-CCTV-2_财经,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8
+CCTV-1_综合,http://59.44.102.18:8888/newlive/live/hls/2/live.m3u8
+CCTV-2_财经,http://59.44.102.18:8888/newlive/live/hls/3/live.m3u8
 CCTV-3_综艺,http://59.44.102.18:8888/newlive/live/hls/4/live.m3u8
 CCTV-4_中文国际,http://59.44.102.18:8888/newlive/live/hls/5/live.m3u8
-CCTV-5_体育,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
+CCTV-5_体育,http://59.44.102.18:8888/newlive/live/hls/6/live.m3u8
 CCTV-5+_体育赛事,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225603/index.m3u8
 CCTV-6_电影,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
 CCTV-7_国防军事,http://video.qd.sdu.edu.cn/liverespath/f116a0a5035935a3435155998163d8eaa60554c3/index.m3u8
